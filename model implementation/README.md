@@ -4,7 +4,7 @@ currently this file cointains:
 1. model.ipynb
 2. sqa_predicition.ipynb
 
-
+### details
 1. model.ipynb :
 this model is aimed to implement the chatbot model and will result in a seq2seq model of NLP domain
 
