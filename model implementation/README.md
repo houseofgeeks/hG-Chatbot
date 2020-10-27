@@ -1,4 +1,4 @@
-## This will contains the model analysis and implementation in jupyter file.
+## This file will contains the model analysis and implementation in jupyter file.
 ### current models:
 currently this file cointains:
 1. model.ipynb
